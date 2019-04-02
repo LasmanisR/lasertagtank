@@ -1,5 +1,5 @@
 # 1.1 Nosaukums
-LasertagTank
+## LasertagTank
 # 1.2 Apraksts
 Tie ir ar kontrolieri vadāmi tanki.
 Tie šaus ar lāzeri viens otram un sensors noskenēs trāpijumu.
