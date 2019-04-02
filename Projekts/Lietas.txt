@@ -4,6 +4,6 @@
 4)2 Led
 5)IR receiver(tsop)
 6)Servo(9g)
-8)Baterijas(Kopā 12v)
-9)Bluetooth modulis
-10)H-Bridge(L293d or l293n)
+7)Baterijas(Kopā 12v)
+8)Bluetooth modulis
+9)H-Bridge(L293d or l293n)
