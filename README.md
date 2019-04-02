@@ -1,2 +1,2 @@
 # lasertagtank
-Taisam šaujošu tanku ar lāzeriem.
+Taisam šaujošu ar lāzeriem tanku.
