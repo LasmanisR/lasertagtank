@@ -6,3 +6,4 @@
 6)Servo
 8)Baterijas
 9)Bluetooth modulis
+10)H-Bridge
