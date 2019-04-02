@@ -1,0 +1,8 @@
+1)Arduino
+2)4 Motori
+3)Vadi
+4)2 Led
+5)IR receiver(tsop)
+6)Servo
+8)Baterijas
+9)Bluetooth modulis
