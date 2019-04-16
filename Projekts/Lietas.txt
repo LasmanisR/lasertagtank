@@ -1,9 +1,8 @@
 1)Arduino √
-2)4 Motori -
+2)4 Motori √
 3)Vadi √
 4)2 Led √
-5)IR receiver(tsop) -
-6)Servo -
-7)Baterijas(Kopā 12v) √
-8)Bluetooth modulis(hc05) -
-9)H-Bridge √
+5)Servo √
+6)Baterijas(Kopā 12v) √
+7)Bluetooth modulis(hc05) √
+8)H-Bridge √
